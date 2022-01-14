@@ -2,4 +2,6 @@
 
 ###Hello
 #Hello
-__Hi__
+__Hi__ 
+
+how to commit git commit
